@@ -151,11 +151,7 @@ section#personal{
     
     z-index: 1; */
 /* } */
-section#finale{
-    background: url('images/goku.jpg') no-repeat center center/cover;
-    color:rgb(16, 20, 20);
-    text-shadow:0px 0px 10px rgb(0, 255, 221);
-}
+
 
 main { 
     position:absolute;
