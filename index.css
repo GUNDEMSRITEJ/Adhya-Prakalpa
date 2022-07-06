@@ -146,11 +146,10 @@ section#service{
 /* section#contact{
     background: url('animegirl.jpg') no-repeat center center/cover;
 }
+*/
 section#personal{
     background:url('sunset light.jpg') no-repeat center center/cover ;
-    
-    z-index: 1; */
-/* } */
+} 
 
 
 main { 
